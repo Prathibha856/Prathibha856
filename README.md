@@ -5,33 +5,39 @@
 
 # 👋 Hi, I'm Prathibha
 
-I'm an enthusiastic learner exploring programming and languages with curiosity and consistency.  
-Currently building simple web projects and improving my Python.
+I'I’m on a journey of building ideas into interactive projects — one line of code at a time.  
+Currently experimenting with **Python**, **JavaScript**, and web technologies while learning new languages — both programming and spoken ones!
+I love transforming ideas into simple, functional projects using Python and web technologies.
+
+---
+
+### 💡 What I Do
+- Build and experiment with **web projects** using HTML, CSS, and JavaScript  
+- Explore **Python** for automation, data handling, and logical problem-solving  
+- Continuously improve by learning new concepts and refining my coding style  
 
 ---
 
 ## 🔧 Tech & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,html,css,js" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </p>
 
 ---
 
 ## 🌱 Learning  
-<p>
-  <img src="https://skillicons.dev/icons?i=python" width="45" />
-  <img src="https://flagcdn.com/w40/es.png" width="45" title="Spanish" />
-  <img src="https://flagcdn.com/w40/de.png" width="45" title="German" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,react,flask" />
+  <br>
+  🌍 Also learning: Spanish 🇪🇸 & German 🇩🇪
 </p>
-
 ---
 
-## 📁 Projects  
-- NasaChallenge  
-- MiniProject (JavaScript)  
-- Stellar Challenge  
-- GlassFund  
- 
+### 📂 Featured Projects
+- 🛰️ **NASA Challenge** – A creative exploration project using space data  
+- 💡 **MiniProject (JavaScript)** – Web interactivity with JS  
+- 🌌 **Stellar Challenge** – Astronomy-based web experiment  
+- 🧭 **GlassFund** – A beginner investment simulation project  
 
 ---
 
