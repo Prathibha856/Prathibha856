@@ -1,4 +1,3 @@
-<!-- Profile Views -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Prathibha856&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
@@ -22,6 +21,13 @@ I love transforming ideas into simple, functional projects using Python and web 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" alt="Tech Stack Icons" />
 </p>
+
+## 🐍 My Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathibha856/Prathibha856/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathibha856/Prathibha856/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prathibha856/Prathibha856/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -58,5 +64,4 @@ I love transforming ideas into simple, functional projects using Python and web 
 
 Where creativity meets computation — that’s home.
 Code with logic, debug with patience, build with heart.😊
-
 
