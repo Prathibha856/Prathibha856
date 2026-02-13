@@ -19,7 +19,7 @@ I love transforming ideas into simple, functional projects using Python and web 
 
 ## 🔧 Tech & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,jupiter notebook ,python,numpy,pandas,matplotlib,seaborn" alt="Tech Stack Icons" />
 </p>
 
 ## 🐍 My Contribution Snake
