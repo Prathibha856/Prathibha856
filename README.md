@@ -19,18 +19,12 @@ I love transforming ideas into simple, functional projects using Python and web 
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,sklearn,tensorflow,anaconda,git,github,vscode" />
+</p>
 
+### 📊 Data Analysis Libraries
+NumPy • Pandas • Matplotlib
 
 ---
 
@@ -65,5 +59,5 @@ I love transforming ideas into simple, functional projects using Python and web 
 ---
 
 Where creativity meets computation — that’s home.
-Code with logic, debug with patience, build with heart.😊
-
+Still studying, still evolving — one dataset, one mistake at a time.
+Quietly shaping something stronger within. 🤖🌱
