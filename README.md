@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Prathibha
 
-I’m on a journey of building ideas into interactive projects — one line of code at a time.  
-Currently experimenting with **Python**, **JavaScript**, and web technologies while learning new languages — both programming and spoken ones!  
-I love transforming ideas into simple, functional projects using Python and web technologies.
+I’m on a journey of building ideas into intelligent, interactive projects — one line of code at a time.
+Currently learning Machine Learning while strengthening my skills in Python, JavaScript, and web technologies.
+I enjoy transforming data and ideas into simple, practical ML-driven projects that solve real-world problems.
 
 ---
 
