@@ -11,9 +11,11 @@ I enjoy transforming data and ideas into simple, practical ML-driven projects th
 ---
 
 ### 💡 What I Do
-- Build and experiment with **web projects** using HTML, CSS, and JavaScript  
-- Explore **Python** for automation, data handling, and logical problem-solving  
-- Continuously improve by learning new concepts and refining my coding style  
+- Built and experiment with **web projects** using HTML, CSS, and JavaScript  
+-Build **ML models** for fraud detection, churn prediction, and crowd management
+- Develop **full-stack web applications** using Flask, React.js, and SQL
+- Perform **data analysis** and visualization using Python, Pandas, and Power BI
+- Continuously learn new technologies and refine my coding style
 
 ---
 
@@ -24,7 +26,7 @@ I enjoy transforming data and ideas into simple, practical ML-driven projects th
 </p>
 
 ### 📊 Data Analysis Libraries
-NumPy • Pandas • Matplotlib
+NumPy • Pandas • Matplotlib 
 
 ---
 
