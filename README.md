@@ -101,7 +101,7 @@ I am a Computer Science Engineering student specializing in AI/ML and Full-Stack
 
 <!-- The animated snake will be generated and served from the 'output' branch once .github/workflows/main.yml executes on GitHub. -->
 <p align="center">
-  <i>Contribution snake workflow is configured via GitHub Actions.</i>
+  <img src="https://raw.githubusercontent.com/Prathibha856/Prathibha856/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
