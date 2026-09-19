@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 70" width="100%" height="100%" fill="none">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14" />
+      <stop offset="100%" stop-color="#0d1527" />
+    </linearGradient>
+    <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0" />
+      <stop offset="30%" stop-color="#38bdf8" stop-opacity="0.6" />
+      <stop offset="70%" stop-color="#c084fc" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background card -->
+  <rect width="850" height="70" rx="12" fill="url(#footerBg)" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Top accent line -->
+  <line x1="0" y1="1" x2="850" y2="1" stroke="url(#footerLine)" stroke-width="1.5" />
+
+  <!-- Left decorative status -->
+  <g transform="translate(36, 40)">
+    <circle cx="4" cy="-4" r="3.5" fill="#22c55e" opacity="0.85" />
+    <text x="16" y="0" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace" font-size="11.5" font-weight="500">
+      Building &amp; Evolving • One Model at a Time
+    </text>
+  </g>
+
+  <!-- Right signature: Prathibha D -->
+  <g transform="translate(620, 40)">
+    <text x="194" y="0" text-anchor="end" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500">
+      Designed with <tspan fill="#38bdf8">code</tspan> &amp; <tspan fill="#c084fc">curiosity</tspan> ✦ Prathibha D
+    </text>
+  </g>
+</svg>
