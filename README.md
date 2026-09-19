@@ -95,11 +95,6 @@ I am a Computer Science Engineering student specializing in AI/ML and Full-Stack
   <img src="https://streak-stats.demolab.com/?user=Prathibha856&amp;theme=tokyonight&amp;hide_border=true" alt="Prathibha856 Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathibha856&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Prathibha856 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathibha856&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Prathibha856 Top Languages" />
-</p>
-
 ---
 
 ## 🐍 Contribution Activity
